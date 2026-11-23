@@ -1,0 +1,571 @@
+{
+  "categories": [
+    {
+      "id": "emergency",
+      "title": "Emergency & Safety Helplines",
+      "hindi": "आपातकालीन एवं सुरक्षा हेल्पलाइन",
+      "blurb": "All-in-one emergency response, women and child safety, and cybercrime reporting.",
+      "icon": "shield",
+      "entries": [
+        {
+          "name": "National Emergency Number (ERSS)",
+          "desc": "Single emergency number for police, fire and medical help across India.",
+          "phone": "112",
+          "website": "https://www.mha.gov.in/en/commoncontent/national-emergency-number-112",
+          "tags": [
+            "24x7",
+            "Police",
+            "Medical"
+          ]
+        },
+        {
+          "name": "Cyber Crime Helpline",
+          "desc": "Report online fraud and cybercrime. Call within the golden hour for the best chance of stopping a transaction.",
+          "phone": "1930",
+          "website": "https://cybercrime.gov.in",
+          "tags": [
+            "24x7",
+            "Cybercrime"
+          ]
+        },
+        {
+          "name": "Women Helpline",
+          "desc": "24x7 helpline for women facing violence, harassment or any distress.",
+          "phone": "181",
+          "website": "https://wcd.gov.in",
+          "tags": [
+            "24x7",
+            "Women"
+          ]
+        },
+        {
+          "name": "National Commission for Women",
+          "desc": "Complaints of atrocities against women and safeguarding of women's rights.",
+          "phone": "7827170170",
+          "email": "ncw@nic.in",
+          "website": "https://ncwapps.nic.in/onlinecomplaintsv2/",
+          "tags": [
+            "Women"
+          ]
+        },
+        {
+          "name": "CHILDLINE (Ministry of WCD)",
+          "desc": "Free, 24x7 phone outreach service for children in need of care and protection.",
+          "phone": "1098",
+          "website": "https://childlineindia.org.in",
+          "tags": [
+            "24x7",
+            "Children"
+          ]
+        },
+        {
+          "name": "Anti-Human Trafficking Helpline",
+          "desc": "Ministry of Home Affairs helpline for reporting trafficking and seeking rescue assistance.",
+          "phone": "155260",
+          "website": "https://www.mha.gov.in",
+          "tags": [
+            "Trafficking"
+          ]
+        },
+        {
+          "name": "National Human Rights Commission",
+          "desc": "Complaints of human rights violations by public servants.",
+          "phone": "14433",
+          "email": "covd-nhrc@nic.in",
+          "website": "https://hrcnet.nic.in",
+          "tags": [
+            "Human Rights"
+          ]
+        },
+        {
+          "name": "Terrorism / Security Threat (NSCS)",
+          "desc": "Report information related to terrorism and security threats.",
+          "phone": "155256",
+          "website": "https://www.nscsindia.gov.in",
+          "tags": [
+            "Security"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "legal-aid",
+      "title": "Free Legal Aid & Advice",
+      "hindi": "निःशुल्क विधिक सहायता",
+      "blurb": "Government-backed free legal advice, counselling and representation for eligible citizens.",
+      "icon": "scale",
+      "entries": [
+        {
+          "name": "NALSA Helpline",
+          "desc": "National Legal Services Authority — free legal aid to women, children, SC/ST, persons with disability, senior citizens and others. 'Tele Law' connects you to a panel lawyer.",
+          "phone": "15100",
+          "website": "https://nalsa.gov.in",
+          "tags": [
+            "Legal Aid",
+            "Free"
+          ]
+        },
+        {
+          "name": "Tele-Law (Dept. of Justice)",
+          "desc": "Free legal advice through Common Service Centres and a mobile app. Advice through video/tele consultation with panel lawyers.",
+          "phone": "011-23074401",
+          "email": "telelaw.grievance@csc.gov.in",
+          "website": "https://www.tele-law.in",
+          "tags": [
+            "Legal Aid",
+            "Free"
+          ]
+        },
+        {
+          "name": "DALSA / DLSA",
+          "desc": "District Legal Services Authorities run free legal aid clinics in every district under the district court.",
+          "website": "https://nalsa.gov.in/services/legal-aid",
+          "tags": [
+            "Legal Aid",
+            "District"
+          ]
+        },
+        {
+          "name": "DoJ Access to Justice",
+          "desc": "Department of Justice, Ministry of Law & Justice — access to justice and NRHM justice initiatives.",
+          "website": "https://doj.gov.in",
+          "tags": [
+            "Government"
+          ]
+        },
+        {
+          "name": "Supreme Court Legal Aid Committee",
+          "desc": "Free legal aid for eligible litigants in the Supreme Court.",
+          "phone": "011-23388922",
+          "website": "https://www.sci.gov.in/legal-aid",
+          "tags": [
+            "Legal Aid"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "courts",
+      "title": "Courts & Judiciary",
+      "hindi": "न्यायालय",
+      "blurb": "Case status, e-filing, cause lists, judgments and e-courts services of the Indian judiciary.",
+      "icon": "gavel",
+      "entries": [
+        {
+          "name": "Supreme Court of India",
+          "desc": "Case status, cause lists, judgments, e-filing and display board of the apex court.",
+          "phone": "011-23388922",
+          "website": "https://www.sci.gov.in",
+          "tags": [
+            "Court",
+            "Judgments"
+          ]
+        },
+        {
+          "name": "eCourts Services",
+          "desc": "Unified portal for case status, cause lists, orders and judgments of all district courts and High Courts.",
+          "website": "https://services.ecourts.gov.in",
+          "tags": [
+            "Case Status",
+            "All Courts"
+          ]
+        },
+        {
+          "name": "eFiling (eCourts)",
+          "desc": "File cases and pay court fees online in enrolled courts.",
+          "website": "https://efiling.ecourts.gov.in",
+          "tags": [
+            "eFiling"
+          ]
+        },
+        {
+          "name": "National Judicial Data Grid",
+          "desc": "Data on pendency and disposal of cases across all courts in India.",
+          "website": "https://njdg.ecourts.gov.in",
+          "tags": [
+            "Statistics"
+          ]
+        },
+        {
+          "name": "High Courts of India",
+          "desc": "Directory of all 25 High Courts with case status and cause lists.",
+          "website": "https://www.india.gov.in/websites-high-courts-india",
+          "tags": [
+            "Court"
+          ]
+        },
+        {
+          "name": "District Courts of India",
+          "desc": "Directory of district court websites across states and UTs.",
+          "website": "https://districts.ecourts.gov.in",
+          "tags": [
+            "Court"
+          ]
+        },
+        {
+          "name": "Supreme Court & High Court Judgments",
+          "desc": "Free judgments information system of the e-Committee of the Supreme Court.",
+          "website": "https://judgments.ecourts.gov.in",
+          "tags": [
+            "Judgments"
+          ]
+        },
+        {
+          "name": "Indian Courts (NIC)",
+          "desc": "Portal of the Indian judiciary with links to courts, tribunals and legal services.",
+          "website": "https://www.indiancourts.nic.in",
+          "tags": [
+            "Portal"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ministry",
+      "title": "Ministries, Law & Justice",
+      "hindi": "मंत्रालय एवं विधि एवं न्याय",
+      "blurb": "Core government departments that make, codify and administer the law.",
+      "icon": "landmark",
+      "entries": [
+        {
+          "name": "Ministry of Law & Justice",
+          "desc": "Parent ministry of the Legislative, Legal Affairs and Justice departments.",
+          "phone": "011-23381023",
+          "website": "https://lawmin.gov.in",
+          "tags": [
+            "Government"
+          ]
+        },
+        {
+          "name": "Department of Legal Affairs",
+          "desc": "Legal advice to Government of India, appointment of law officers, litigation on behalf of the Union.",
+          "website": "https://legalaffairs.gov.in",
+          "tags": [
+            "Government"
+          ]
+        },
+        {
+          "name": "Department of Justice",
+          "desc": "Court infrastructure, legal aid, access to justice, Tele-Law and Nyaya Vikas schemes.",
+          "website": "https://doj.gov.in",
+          "tags": [
+            "Government"
+          ]
+        },
+        {
+          "name": "Legislative Department",
+          "desc": "Drafting of central legislation and codification and printing of laws.",
+          "website": "https://www.legislative.gov.in",
+          "tags": [
+            "Government"
+          ]
+        },
+        {
+          "name": "Ministry of Home Affairs",
+          "desc": "Police, internal security, emergency support schemes including emergency number 112.",
+          "website": "https://www.mha.gov.in",
+          "tags": [
+            "Government"
+          ]
+        },
+        {
+          "name": "Ministry of External Affairs (Consular)",
+          "desc": "Help for Indians abroad in legal distress, arrests and consular assistance (MADAD portal).",
+          "phone": "1800-258-1521",
+          "website": "https://www.madad.gov.in",
+          "tags": [
+            "NRI",
+            "Consular"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "laws",
+      "title": "Law Libraries & Codes",
+      "hindi": "विधि संग्रह एवं संहिताएँ",
+      "blurb": "Read the Constitution, central and state Acts, rules and notifications — free and authentic.",
+      "icon": "book",
+      "entries": [
+        {
+          "name": "Constitution of India",
+          "desc": "Official text of the Constitution with latest amendments, in English and Hindi.",
+          "website": "https://www.constitutionofindia.nic.in",
+          "tags": [
+            "Constitution"
+          ]
+        },
+        {
+          "name": "India Code",
+          "desc": "Digital repository of all central and state Acts, rules, regulations and notifications.",
+          "website": "https://www.indiacode.nic.in",
+          "tags": [
+            "Acts",
+            "Rules"
+          ]
+        },
+        {
+          "name": "Digital Sansad",
+          "desc": "Bills, debates and questions of Parliament — Lok Sabha and Rajya Sabha.",
+          "website": "https://sansad.in",
+          "tags": [
+            "Parliament",
+            "Bills"
+          ]
+        },
+        {
+          "name": "India.gov.in — Law & Justice",
+          "desc": "National portal of India's law and justice section with links to all government legal resources.",
+          "website": "https://www.india.gov.in/law-justice",
+          "tags": [
+            "Portal"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tribunals",
+      "title": "Tribunals & Quasi-Judicial Bodies",
+      "hindi": "अधिकरण",
+      "blurb": "Specialised adjudication bodies for service, company, consumer, tax and other matters.",
+      "icon": "building",
+      "entries": [
+        {
+          "name": "Central Administrative Tribunal (CAT)",
+          "desc": "Disputes on recruitment and service conditions of central government employees.",
+          "phone": "011-23385097",
+          "website": "https://cgat.gov.in",
+          "tags": [
+            "Service Matters"
+          ]
+        },
+        {
+          "name": "National Company Law Tribunal (NCLT)",
+          "desc": "Corporate law adjudication, insolvency and company disputes.",
+          "website": "https://nclt.gov.in",
+          "tags": [
+            "Corporate"
+          ]
+        },
+        {
+          "name": "National Company Law Appellate Tribunal (NCLAT)",
+          "desc": "Appeals against orders of NCLT, Insolvency and Bankruptcy Board and Competition Commission of India.",
+          "website": "https://nclat.nic.in",
+          "tags": [
+            "Appellate"
+          ]
+        },
+        {
+          "name": "National Green Tribunal (NGT)",
+          "desc": "Environmental protection and conservation of forests and natural resources.",
+          "website": "https://greentribunal.gov.in",
+          "tags": [
+            "Environment"
+          ]
+        },
+        {
+          "name": "Income Tax Appellate Tribunal (ITAT)",
+          "desc": "Appeals under direct tax laws.",
+          "website": "https://itat.gov.in",
+          "tags": [
+            "Tax"
+          ]
+        },
+        {
+          "name": "Armed Forces Tribunal (AFT)",
+          "desc": "Service matters and appeals of armed forces personnel.",
+          "website": "https://aft.gov.in",
+          "tags": [
+            "Defence"
+          ]
+        },
+        {
+          "name": "Debts Recovery Tribunal (DRT)",
+          "desc": "Recovery of debts due to banks and financial institutions.",
+          "website": "https://drt.gov.in",
+          "tags": [
+            "Banking"
+          ]
+        },
+        {
+          "name": "National Consumer Disputes Redressal Commission (NCDRC)",
+          "desc": "Consumer disputes and appeals; e-Daakhil portal for online consumer complaints.",
+          "website": "https://ncdrc.nic.in",
+          "tags": [
+            "Consumer"
+          ]
+        },
+        {
+          "name": "e-Daakhil",
+          "desc": "File consumer commission and other cases online and track them.",
+          "website": "https://edaakhil.nic.in",
+          "tags": [
+            "eFiling",
+            "Consumer"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "regulators",
+      "title": "Regulators & Commissions",
+      "hindi": "नियामक एवं आयोग",
+      "blurb": "Statutory regulators for elections, human rights, information, legal profession and more.",
+      "icon": "file",
+      "entries": [
+        {
+          "name": "Election Commission of India",
+          "desc": "Elections, voter registration and model code of conduct; voter helpline 1950.",
+          "phone": "1950",
+          "website": "https://eci.gov.in",
+          "tags": [
+            "Elections"
+          ]
+        },
+        {
+          "name": "National Human Rights Commission (NHRC)",
+          "desc": "Human rights violations complaints and human rights literacy.",
+          "phone": "14433",
+          "website": "https://nhrc.nic.in",
+          "tags": [
+            "Human Rights"
+          ]
+        },
+        {
+          "name": "Central Information Commission (CIC)",
+          "desc": "Second appellate authority under the Right to Information Act, 2005.",
+          "website": "https://cic.gov.in",
+          "tags": [
+            "RTI"
+          ]
+        },
+        {
+          "name": "Central Vigilance Commission (CVC)",
+          "desc": "Complaints against central government employees; whistle-blower protection.",
+          "website": "https://cvc.gov.in",
+          "tags": [
+            "Vigilance"
+          ]
+        },
+        {
+          "name": "Bar Council of India (BCI)",
+          "desc": "Regulates legal practice and legal education; advocate enrolment and discipline.",
+          "phone": "011-49225000",
+          "email": "bciinfo21@gmail.com",
+          "website": "https://www.barcouncilofindia.org",
+          "tags": [
+            "Advocates"
+          ]
+        },
+        {
+          "name": "Advocates-on-Record & Law Officers",
+          "desc": "Supreme Court Bar and advocate-related services of the apex court.",
+          "website": "https://www.sci.gov.in",
+          "tags": [
+            "Advocates"
+          ]
+        },
+        {
+          "name": "National Commission for Minorities",
+          "desc": "Safeguards and complaints related to minority communities.",
+          "website": "https://ncm.gov.in",
+          "tags": [
+            "Minorities"
+          ]
+        },
+        {
+          "name": "National Commission for Scheduled Castes",
+          "desc": "Investigates safeguards for Scheduled Castes and handles complaints.",
+          "website": "https://ncsc.nic.in",
+          "tags": [
+            "SC"
+          ]
+        },
+        {
+          "name": "National Commission for Scheduled Tribes",
+          "desc": "Investigates safeguards for Scheduled Tribes and handles complaints.",
+          "website": "https://ncst.nic.in",
+          "tags": [
+            "ST"
+          ]
+        },
+        {
+          "name": "Chief Vigilance Officers (CVC Complaints)",
+          "desc": "Lodge vigilance complaints online against central government organisations.",
+          "website": "https://cvc.gov.in/?q=node/1542",
+          "tags": [
+            "Vigilance"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "police",
+      "title": "Police & Investigation",
+      "hindi": "पुलिस एवं अन्वेषण",
+      "blurb": "Central investigation agencies and citizen-facing police services.",
+      "icon": "shield",
+      "entries": [
+        {
+          "name": "Central Bureau of Investigation (CBI)",
+          "desc": "Anti-corruption and special crimes complaints and general information.",
+          "website": "https://cbi.gov.in",
+          "tags": [
+            "Investigation"
+          ]
+        },
+        {
+          "name": "National Investigation Agency (NIA)",
+          "desc": "Investigation of terrorism-related offences; report information to counter-terrorism agencies.",
+          "website": "https://nia.gov.in",
+          "tags": [
+            "Investigation"
+          ]
+        },
+        {
+          "name": "NARCIS — Narcotics Control Bureau",
+          "desc": "Report drug trafficking and Narcotic Drugs and Psychotropic Substances related information.",
+          "website": "https://narcoticsindia.nic.in",
+          "tags": [
+            "Narcotics"
+          ]
+        },
+        {
+          "name": "Report Online Child Sexual Abuse",
+          "desc": "National portal to report child sexual abuse material; anonymous reporting possible.",
+          "website": "https://cybercrime.gov.in/Webform/abuse.aspx",
+          "tags": [
+            "Children",
+            "Cybercrime"
+          ]
+        },
+        {
+          "name": "Lost & Found / CCTV (Delhi Police)",
+          "desc": "Example citizen services portal of a metro police — check your state police website for similar services.",
+          "website": "https://www.delhipolice.gov.in",
+          "tags": [
+            "Citizen Services"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kanunastra-game",
+      "title": "Kanunastra Game — Official Website",
+      "hindi": "कानूनास्त्र गेम — आधिकारिक वेबसाइट",
+      "blurb": "The official Kanunastra Game website: every government legal helpline, portal and website in one place.",
+      "icon": "globe",
+      "entries": [
+        {
+          "name": "Kanunastra Game",
+          "desc": "A free citizen-help directory of Indian government legal helplines, emergency numbers, free legal aid, courts, tribunals, ministries and official law portals — searchable and organised by category.",
+          "website": "https://infinite-level-lesso-tfvf.bolt.host",
+          "tags": [
+            "Directory",
+            "Free"
+          ]
+        }
+      ]
+    }
+  ]
+}

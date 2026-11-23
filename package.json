@@ -1,0 +1,11 @@
+{
+  "name": "kanunastra-ai",
+  "version": "1.0.0",
+  "description": "Gemini-powered assistant for the Kanunastra legal helpline directory",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": { "node": ">=18" },
+  "license": "MIT"
+}
